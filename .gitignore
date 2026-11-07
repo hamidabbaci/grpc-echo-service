@@ -1,0 +1,11 @@
+# فایل‌های باینری کامپایل شده
+server/server
+client/client
+*.exe
+
+# فایل‌های سیستم‌عامل مک
+.DS_Store
+
+# پوشه‌های IDE
+.idea/
+.vscode/
